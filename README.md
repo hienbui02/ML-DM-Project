@@ -2,8 +2,8 @@
 # Prediction of the level of risk of a loan application
 
 # Team members:
-Bui Duy Hien - 20200208
-Duong Duy Manh - 20205162
++ Bui Duy Hien - 20200208
++ Duong Duy Manh - 20205162
 
 # About Project
  - Data: https://www.kaggle.com/datasets/wordsforthewise/lending-club
