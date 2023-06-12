@@ -6,8 +6,8 @@ Bui Duy Hien - 20200208
 Duong Duy Manh - 20205162
 
 # About Project
-Data: https://www.kaggle.com/datasets/wordsforthewise/lending-club
-Data after processing: https://drive.google.com/file/d/1CMhYiNOdwJP1Vl5ILOD47-XLKOtHZvUz/view?usp=sharing
+ - Data: https://www.kaggle.com/datasets/wordsforthewise/lending-club
+ - Data after processing: https://drive.google.com/file/d/1CMhYiNOdwJP1Vl5ILOD47-XLKOtHZvUz/view?usp=sharing
 
 source code: Contains all source codes
 report: Contains technical report
