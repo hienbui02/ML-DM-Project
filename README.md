@@ -9,8 +9,8 @@
  - Data: https://www.kaggle.com/datasets/wordsforthewise/lending-club
  - Data after processing: https://drive.google.com/file/d/1CMhYiNOdwJP1Vl5ILOD47-XLKOtHZvUz/view?usp=sharing
 
-source code: Contains all source codes
-report: Contains technical report
+ - source code: Contains all source codes
+ - report: Contains technical report
 
 # Notes:
  - All source codes require many resources and long time ro run, we recommend to run them in Kaggle or Google Colab.
